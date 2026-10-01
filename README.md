@@ -1,18 +1,19 @@
-am a student at iyf wecan academy
-l am learning computer programming at iyf
+# My name is Hajira Zainab
 
-##about me
-l live in nairobi,kenya
+I am a student at IYF Wecan Academy. I am learning computer programming at IYF.
 
-#goal
-l want to become a data analyst
+## About Me
+I live in Nairobi, Kenya.
 
-#talent
--hairdressing
+## Goal
+I want to become a data analyst.
 
-#hobbies
--cooking
--dancing
--helping others
+## Talent
+- Hairdressing
 
-Thankyou for viewing my profile
+## Hobbies
+- Cooking
+- Dancing
+- Helping others
+
+Thank you for viewing my profile!
