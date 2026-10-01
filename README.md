@@ -1,5 +1,4 @@
-#my name is hajira zainab
-l am a student at iyf wecan academy
+am a student at iyf wecan academy
 l am learning computer programming at iyf
 
 ##about me
