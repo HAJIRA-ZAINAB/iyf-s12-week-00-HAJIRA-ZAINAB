@@ -5,13 +5,13 @@ l am learning computer programming at iyf
 ##about me
 l live in nairobi,kenya
 
-##goal
+#goal
 l want to become a data analyst
 
-##talent
+#talent
 -hairdressing
 
-##hobbies
+#hobbies
 -cooking
 -dancing
 -helping others
