@@ -30,7 +30,7 @@
 View my live profile: https://HAJIRA-ZAINAB.github.io/iyf-s12-week-00-HAJIRA-ZAINAB
 
 ## Setup
-Task 0.3 - Git config verification:
+- Git config verification:
 
 ```bash
 user.name=HAJIRA-ZAINAB
